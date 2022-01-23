@@ -1,4 +1,4 @@
-# snake_bevy6_egui
+# snake_bevy_0.6_egui
 
 Hello, this is a try to integrate a bevy 0.6 game inside egui thanks to bevy_egui. A kind of memo / proof of concept on Bevy 0.6.
 The example game is snake from https://github.com/marcusbuffett/bevy_snake , version i found elegant.
